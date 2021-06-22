@@ -1,0 +1,30 @@
+#wp-content {
+    min-height: 960px;
+}
+
+.price-box {
+    font-size: 15px;
+}
+
+.old-price {
+    text-decoration: line-through;
+}
+
+.product-item:hover {
+    border: 1px solid #bebebe!important;
+    transition: border 0.25s;
+}
+
+.table>tbody>tr>td {
+    vertical-align: middle;
+}
+
+.detail{
+    border: 1px solid #bebebe;
+    width:220px;
+    left:300px;
+    text-align:center;
+    margin-left:960px;
+    padding-bottom:20px;
+}
+
